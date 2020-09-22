@@ -8,4 +8,9 @@
 2. Follow the codes and use the notes for reference.
 3. Practice and you are good to go
 4. Week 4 refers to the case study you can do and add to your resume.
- 
+
+## How to install jupyter?
+
+1. Run command pip install jupyter in your command prompt
+2. After being installed use jupyter notebook command to run jupyter.
+3. -[Usage of jupyter](https://youtu.be/jZ952vChhuI) 
