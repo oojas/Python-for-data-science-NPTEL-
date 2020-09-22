@@ -18,3 +18,7 @@ for x in arr : print(x) #this is how you declare an array using array import
 
 tup=(1,2,3) #tuple. The values of the tuples cannot be changed.
 oj={1:"first",2:"last",3:"Second"} #decalring the dictionary
+print(oj)
+for k in oj : print(k) 
+ojas=dict([('first',1),('Second',2)])
+print(ojas)  # Creating dictionary using dict function
