@@ -18,4 +18,8 @@ h=int(b)
 type(b)
 type(h) #TypeCasting 
 
+   #Operators
+float('98'+'85')
+float('73+64')
+
   
