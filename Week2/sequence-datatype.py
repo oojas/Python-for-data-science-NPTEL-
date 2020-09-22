@@ -31,3 +31,7 @@ li=[1,2,3,4]
 print(li)
 jh=(1,2,3,4,5) # Creating a tuple
 print(jh)
+ok=[1,2,3,4,5]
+bj=[2,3,4,5,6]
+ol=ok+bj
+print(ol)
