@@ -24,4 +24,5 @@ ojas=dict([('first',1),('Second',2)])
 print(ojas)  # Creating dictionary using dict function
    # A list can be an element of a dictionary
 rn=range(1,12)
-for x in rn: print(x) # in the 
+for x in rn: print(x) # in the range funciton,the values store are the starting value and the hughest value-1.
+                       # We can print the values using for loops.
