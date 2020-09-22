@@ -23,3 +23,5 @@ for k in oj : print(k)
 ojas=dict([('first',1),('Second',2)])
 print(ojas)  # Creating dictionary using dict function
    # A list can be an element of a dictionary
+rn=range(1,12)
+for x in rn: print(x) # in the 
