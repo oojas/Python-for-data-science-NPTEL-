@@ -29,3 +29,5 @@ for x in rn: print(x) # in the range funciton,the values store are the starting 
 
 li=[1,2,3,4]
 print(li)
+jh=(1,2,3,4,5) # Creating a tuple
+print(jh)
