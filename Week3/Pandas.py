@@ -27,5 +27,8 @@ rea1=pd.read_table('Keys.txt',sep='\t')
 print(rea1)
 # how to copy data
 
-copy=read.copy(deep=false) # Shallow Copy ( Similar to Call by refernce)
-copy1=read.copy(deep=true) # Deep Copy ( Similar to Call by Value)
+copy=read.copy(deep=False) # Shallow Copy ( Similar to Call by refernce)
+copy1=read.copy(deep=True) # Deep Copy ( Similar to Call by Value)
+print(read.columns)
+  # To get the labels the syntax is dataframe.index(Rows) or dataframe.columns
+print(read.index)
