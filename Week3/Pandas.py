@@ -42,8 +42,10 @@ print(read.at[1,'Ojas Gupta'])
 
 # Pandas Part ||
 
-print(read.dtype)
-
+print(read.dtypes) # function used for checking up the datatypes of the dataframes
+# syntax : dataframe.dtypes
+print(read.get_types_counts()) # Counts the number of variable with same dtypes
+# An object dttpe means that it contains more than one datatype.
 
 
 
