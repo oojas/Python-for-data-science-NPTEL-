@@ -39,3 +39,11 @@ print(read.head(3))
 
 print(read.at[1,'Ojas Gupta'])
 #print(read.loc([:'Ojas Gupta']))
+
+# Pandas Part ||
+
+print(read.dtype)
+
+
+
+
