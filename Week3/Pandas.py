@@ -32,3 +32,10 @@ copy1=read.copy(deep=True) # Deep Copy ( Similar to Call by Value)
 print(read.columns)
   # To get the labels the syntax is dataframe.index(Rows) or dataframe.columns
 print(read.index)
+print(read.shape) # to get the dimensions of the table.
+print(read.memory_usage())
+print(read.head(3))
+# you can also view more functions that pandas provide using the variable explorer
+
+print(read.at[1,'Ojas Gupta'])
+#print(read.loc([:'Ojas Gupta']))
