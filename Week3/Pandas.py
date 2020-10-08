@@ -46,6 +46,17 @@ print(read.dtypes) # function used for checking up the datatypes of the datafram
 # syntax : dataframe.dtypes
 print(read.get_types_counts()) # Counts the number of variable with same dtypes
 # An object dttpe means that it contains more than one datatype.
+num_1 = 546
+num_2 = '786'
+print (num_1 + num_2)
+x=10
+def func(num):
+    x=5
+    for i in num:
+        x*=i
+    return x
+print(func((-2,-1,1,2,3)))    
+
 
 
 
