@@ -12,5 +12,5 @@
 ## How to install jupyter?
 
 1. Run command pip install jupyter in your command prompt
-2. After being installed use jupyter notebook command to run jupyter.
+2. After being installed use jupyter notebook command in your command prompt to run jupyter.
 3. -[Usage of jupyter](https://youtu.be/jZ952vChhuI) 
